@@ -1,0 +1,28 @@
+# Flutter
+app/.dart_tool/
+app/.packages
+app/.pub/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Python (legacy)
+legacy/__pycache__/
+legacy/.pytest_cache/
+*.pyc
+
+# Supabase
+supabase/.temp/
+
+# Environment
+.env
+.env.local
